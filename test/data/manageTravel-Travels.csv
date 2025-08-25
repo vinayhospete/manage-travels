@@ -1,0 +1,6 @@
+ID;tripName;employee;status;tripStartDate;tripEndDate;priceUsd;notes_ID
+5ccd27d2-aeab-4c82-8e64-365a7688273a;Business Conference;John Doe;Confirmed;2023-11-01;2023-11-05;1200.50;8b5bc4ad-e881-45bc-9441-b8006d29627f
+80d33642-ce2e-4d2b-b7df-f3c34456194f;Team Retreat;Jane Smith;Pending;2023-12-10;2023-12-12;800.75;23463ac1-c430-429d-9457-6f3f340bf821
+3b235033-3f35-4f12-be43-ad9ca84fe5a0;Client Meeting;Alice Johnson;Cancelled;2023-10-15;2023-10-16;450.00;9efcaf25-1a6f-4c0a-b20d-d31f3623d2af
+87662276-96ed-4bcd-a286-2db40c0fab4d;Sales Pitch;Bob Brown;Confirmed;2023-11-20;2023-11-21;600.00;a0e67cb1-7057-4b99-8b5a-0fb2a84fbedc
+367c6eb5-81f5-43e0-8338-8b7f6374f39f;Training Workshop;Emily Davis;Completed;2023-09-25;2023-09-27;950.00;99560c23-b431-4c52-87e6-ae408ae3afc5
