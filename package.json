@@ -17,10 +17,6 @@
     "@cap-js/cds-types": "^0.13.0"
   },
   "scripts": {
-    "start": "cds-serve",
-    "watch-managetravelfioriapp": "cds watch --open managetravelfioriapp/webapp/index.html?sap-ui-xx-viewCache=false"
-  },
-  "sapux": [
-    "app/managetravelfioriapp"
-  ]
+    "start": "cds-serve"
+  }
 }
